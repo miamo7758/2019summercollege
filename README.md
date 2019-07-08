@@ -3,7 +3,7 @@
 ## self introduction
 姓名：莫佩盈<br/>
 學校：世新大學<br/>
-主修：資訊管理學系升大二<br/>
+主修：資訊管理學系 一年級<br/>
 ## schedule
 ### week1 7.08
 ### week1 7.11
