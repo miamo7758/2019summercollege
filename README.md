@@ -10,8 +10,7 @@ Major：資訊管理學系 二年級<br/>
 In Class:<br/>
 GitHub<br/>
 R/Rstudio<br/>
-RMarkdown<br/>
-progess：[R Markdown](https://miamo7758.github.io/2019summercollege/week1/test.html) <br/>
+[R Markdown](https://miamo7758.github.io/2019summercollege/week1/test.html) <br/>
 At Home:<br/>
 ### 7.11
 In Class:<br/>
