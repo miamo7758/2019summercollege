@@ -7,7 +7,7 @@ Major：資訊管理學系 二年級<br/>
 # schedule
 ## week1 
 ### 7.08
-In Class:
+In Class:<br/>
 GitHub<br/>
 R/Rstudio<br/>
 RMarkdown<br/>
