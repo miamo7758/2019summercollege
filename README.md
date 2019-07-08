@@ -7,7 +7,7 @@ Major：資訊管理學系 二年級<br/>
 # schedule
 ## week1 
 ### 7.08
-In Class:[R Markdown](file:///C:/Users/ASUS/Desktop/rmd.html) <br/>
+In Class:[R Markdown](file:///C:/Users/ASUS/Desktop/text.html) <br/>
 At Home:<br/>
 ### 7.11
 In Class:<br/>
