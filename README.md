@@ -1,2 +1,2 @@
-# 2019 summer college
+# summer college
 # self introduction
