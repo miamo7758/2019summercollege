@@ -7,7 +7,7 @@ Major：資訊管理學系 二年級<br/>
 # schedule
 ## week1 
 ### 7.08
-In Class:[R Markdown](https://github.com/miamo7758/2019summercollege/blob/master/week1/test.html) <br/>
+In Class:[R Markdown](https://miamo7758.github.io/2019summercollege/week1/test.html) <br/>
 At Home:<br/>
 ### 7.11
 In Class:<br/>
