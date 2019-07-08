@@ -3,7 +3,7 @@ Course：資料科學程式設計
 ## self introduction
 Student：莫佩盈<br/>
 School：世新大學<br/>
-Major：資訊管理學系 一年級<br/>
+Major：資訊管理學系 二年級<br/>
 # schedule
 ## week1 
 ### progress7.08
