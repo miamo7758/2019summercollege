@@ -1,10 +1,10 @@
 <h1>2019 summer college</h1>
 Course：資料科學程式設計
-<h2>introduction</h2>
+<h2>Introduction</h2>
 Student：莫佩盈<br/>
 School：世新大學<br/>
 Major：資訊管理學系 二年級<br/>
-<h2>schedule</h2>
+<h2>Schedule</h2>
 <h3>week1</h3> 
 <h4>7.08</h4> 
 <UL>
