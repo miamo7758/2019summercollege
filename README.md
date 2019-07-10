@@ -12,7 +12,7 @@ Major：資訊管理學系 二年級<br/>
 <UL>
 <LI>學習使用GitHub<br/>
 <LI>下載與簡單了解R/Rstudio<br/>
-<LI> 了解[R Markdown](https://miamo7758.github.io/2019summercollege/week1/test.html) 的使用 <br/>
+<LI>了解<a href="https://miamo7758.github.io/2019summercollege/week1/test.html">R Markdown</a>[R Markdown](https://miamo7758.github.io/2019summercollege/week1/test.html)的使用 <br/>
 </UL>
 </UL>   
 <UL>
