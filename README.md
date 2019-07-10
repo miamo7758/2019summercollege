@@ -16,6 +16,7 @@ Major：資訊管理學系 二年級<br/>
 </UL> 
 <UL>
 <LI>At Home：<br/>
+<UL>  
 <LI>學習R語言的使用<br/>
 <LI>尋找議題<br/>
 </UL>   
