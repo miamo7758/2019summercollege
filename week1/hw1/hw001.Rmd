@@ -1,0 +1,35 @@
+---
+title: "The impact of family smoking on adolescents"
+author: "MiaMo"
+date: "2019.07.11"
+output: html_document
+---
+source01:https://data.gov.tw/dataset/14475 (高中職生目前吸菸率)<br/>
+source02:https://data.gov.tw/dataset/14479 (高中職生家庭二手菸暴露率)<br/>
+
+父母吸菸壞榜樣
+
+根據《美國大學先驅報（universityherald）報導，校園禁菸的成功與否，要將家長的因素納入，幫家長戒菸或對家長曉以大義，請他們多關照小孩，如果自己無法戒也要清楚告訴小孩不可吸菸。<br/>
+
+一項發表於《美國公共衛生期刊》的調查研究指出，父母親不吸菸的青少年中，有13%表示他們曾經吸過，而父母有吸菸的青少年中，有38%的曾經吸過菸。根據近期的研究，若青少年的父母親其中一人或兩人都吸菸，那這些青少年較可能吸菸並成癮。<br/>
+
+本研究的主要作者丹尼斯（Denise Kandel）說：「大部份的吸菸者都是在青少年時期開始吸。如研究所顯示，父母的影響相當大，為了預防青少年開始吸菸成癮，我們必須更努力協助父母戒菸。」<br/>
+
+除了104年的資料,其它年的資料顯示整體家庭二手菸暴露率越高,整體學生的吸菸比率也越高<br/>
+
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r hw,echo=FALSE}
+library(readxl)
+family_smoking_rate <- read_excel("C:/Users/ASUS/Desktop/family_smoking_rate.xls")
+library(readxl)
+student_smoking_rate <- read_excel("C:/Users/ASUS/Desktop/student_smoking_rate.xlt")
+general=merge(family_smoking_rate,student_smoking_rate,by="year")
+general
+```
