@@ -29,11 +29,10 @@ Major：資訊管理學系 二年級<br/>
 </UL>
 </UL>    
 <UL>
-<LI>At Home：<br/>
-<LI>尋找議題<br/>
-<LI>蒐集大略資料<br/>  
+<LI>At Home：<br/>  
 <UL>
-<LI><br/>  
+<LI>尋找議題<br/>
+<LI>蒐集資料<br/> 
 </UL>
 </UL>  
 <h3>week2</h3>
