@@ -23,9 +23,17 @@ Major：資訊管理學系 二年級<br/>
 </UL>
 </UL>   
 <h4>7.11</h4>
+<UL>  
 In Class：<br/>
-<a href="https://miamo7758.github.io/2019summercollege/week1/hw1.html">TidyData</a><br/>
-At Home：<br/>
+<UL>  
+<LI><a href="https://miamo7758.github.io/2019summercollege/week1/hw1.html">TidyData</a><br/>
+</UL>
+</UL>    
+<UL>
+<LI>At Home：<br/>
+<UL>
+</UL>
+</UL>  
 <h3>week2</h3>
 <h4>7.15</h4>
 In Class：<br/>
