@@ -24,7 +24,7 @@ Major：資訊管理學系 二年級<br/>
 </UL>   
 <h4>7.11</h4>
 <UL>  
-In Class：<br/>
+<LI>In Class：<br/>
 <UL>  
 <LI><a href="https://miamo7758.github.io/2019summercollege/week1/hw1.html">TidyData</a><br/>
 </UL>
