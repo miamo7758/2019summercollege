@@ -1,0 +1,19 @@
+---
+title: "The impact of family smoking on adolescents"
+author: "MiaMo"
+date: "2019.07.11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r hw,echo=FALSE}
+library(readxl)
+family_smoking_rate <- read_excel("C:/Users/ASUS/Desktop/family_smoking_rate.xls")
+library(readxl)
+student_smoking_rate <- read_excel("C:/Users/ASUS/Desktop/student_smoking_rate.xlt")
+general=merge(family_smoking_rate,student_smoking_rate,by="year")
+general
+```
