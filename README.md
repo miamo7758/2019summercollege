@@ -39,7 +39,7 @@ Major：資訊管理學系 二年級<br/>
 </UL>  
 <h3>week2</h3>
 <h4>7.15</h4>
-In Class：<br/>
+In Class：ggplot<a href="https://miamo7758.github.io/2019summercollege/week1/hw1/hw001.html"><br/>
 At Home：<br/>
 <h4>7.18</h4>
 In Class：<br/>
