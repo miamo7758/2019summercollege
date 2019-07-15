@@ -42,13 +42,13 @@ Major：資訊管理學系 二年級<br/>
 <UL>  
 <LI>In Class：<br/>
 <UL>  
-資料視覺化與EDA<br/>
+<LI>資料視覺化與EDA<br/>
 </UL>
 </UL> 
 <UL>    
 <LI>At Home：<br/>
 <UL>   
-<LI><a href="https://miamo7758.github.io/2019summercollege/week2/hw2/hw002.html">ggplot(hw002)</a><br/>
+<LI><a href="https://miamo7758.github.io/2019summercollege/week2/hw2/hw002.html">ggplot(hw002)</a>實作<br/>
 </UL>
 </UL>   
 <h4>7.18</h4>
