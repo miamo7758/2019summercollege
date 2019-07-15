@@ -36,13 +36,21 @@ Major：資訊管理學系 二年級<br/>
 <LI><a href="https://miamo7758.github.io/2019summercollege/week1/hw1/hw001.html">TidyData(hw001)</a>
 <LI>尋找議題<br/>
 </UL>
-</UL>
-<h3>week2</h3>
+</UL>  
+<h3>week2</h3>  
 <h4>7.15</h4>
-In Class：<br/>
-資料視覺化
-At Home：<br/>
+<UL>  
+<LI>In Class：<br/>
+<UL>  
+資料視覺化與EDA<br/>
+</UL>
+</UL> 
+<UL>    
+<LI>At Home：<br/>
+<UL>   
 <LI><a href="https://miamo7758.github.io/2019summercollege/week2/hw2/hw002.html">ggplot(hw002)</a><br/>
+</UL>
+</UL>   
 <h4>7.18</h4>
 In Class：<br/>
 At Home：<br/>
