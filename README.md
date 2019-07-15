@@ -27,20 +27,22 @@ Major：資訊管理學系 二年級<br/>
 <UL> 
 <LI>資料收集及清洗<br/>
 <LI>爬蟲教學<br/>  
-<LI>透過dplyr將資料處理成<a href="https://miamo7758.github.io/2019summercollege/week1/hw1/hw001.html">TidyData(hw001)</a><br/>
+<LI>透過dplyr將資料處理成TidyData<br/>
 </UL>
 </UL>    
 <UL>
 <LI>At Home：<br/>  
 <UL>
+<LI><a href="https://miamo7758.github.io/2019summercollege/week1/hw1/hw001.html">TidyData(hw001)</a>
 <LI>尋找議題<br/>
-<LI>蒐集資料<br/> 
 </UL>
-</UL>  
+</UL>
 <h3>week2</h3>
 <h4>7.15</h4>
-In Class：<a href="https://miamo7758.github.io/2019summercollege/week2/hw2/hw002.html">ggplot(hw002)</a><br/>
+In Class：<br/>
+資料視覺化
 At Home：<br/>
+<LI><a href="https://miamo7758.github.io/2019summercollege/week2/hw2/hw002.html">ggplot(hw002)</a><br/>
 <h4>7.18</h4>
 In Class：<br/>
 At Home：<br/>
