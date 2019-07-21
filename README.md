@@ -58,7 +58,7 @@ Major：資訊管理學系 二年級<br/>
 <UL>  
 <LI>In Class：<br/>
 <UL> 
-<LI>  
+<LI>文字探勘  
 </UL>  
 </UL>  
 <UL>   
