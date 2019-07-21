@@ -460,7 +460,6 @@ head(Dcard$content)</code></pre>
 ## [6] &quot;影片網址\n&lt;U+27A1&gt;https://m.facebook.com/story.php?story_fbid=1044320832296050&amp;id=100001544281785\n\n常常我說\n不拿塑膠袋\n不用免洗餐具\n雖然我盡力做到\n但偶爾還是會因為懶惰而使用\n\n常常我們說\n要愛地球\n要環保\n要保護北極熊\n但又有多少人真的做到環保這件事\n\n每次買飲料就算不需要還是拿了一個塑膠袋\n每次買早午晚餐就算拿回家有餐具也因為不想洗筷子而拿免洗的\n更有時候連基本的垃圾分類都懶\n\n我們到底還要因為「懶」而製造多少垃圾？\n到底還要因為方便而使多少生命受到威脅？\n\n愛護地球不應該是看到這些影片覺得\n哇他們好可憐我們要好好愛護他們\n但轉身又做著不相符的事\n\n愛護地球是一點一滴\n從小地方做起\n一天少拿一個塑膠袋一年可以節省365個\n如果再多找幾個人一起做這些事一年可以省下的資源是很多的\n\n不要再想說只是偶爾只是一點點\n當大家都節省的時候\n我們或許真的可以保護地球&quot;</code></pre>
 <pre class="r"><code>cutter &lt;- worker(&#39;tag&#39;,write = &quot;NOFILE&quot;)
 new_user_word(cutter,&#39;中天&#39;,&#39;n&#39;)</code></pre>
-new_user_word(cutter,&#39;台灣&#39;,&#39;n&#39;)</code></pre>
 <pre><code>## [1] TRUE</code></pre>
 <pre class="r"><code>txt1&lt;-unlist(lapply(Dcard$content[1:100],dseg,&#39;n&#39;))
 st1&lt;-freq(txt1)
