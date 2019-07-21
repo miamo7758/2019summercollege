@@ -55,8 +55,18 @@ Major：資訊管理學系 二年級<br/>
 </UL>
 </UL>   
 <h4>7.18</h4>
-In Class：<br/>
-At Home：<br/>
+<UL>  
+<LI>In Class：<br/>
+<UL> 
+<LI>  
+</UL>  
+</UL>  
+<UL>   
+<LI>At Home：<br/>
+<UL>  
+<LI> <a href="https://miamo7758.github.io/2019summercollege/week2/hw3/hw003.html">jieba(hw003)</a><br/>
+</UL>  
+</UL>   
 <h3>week3</h3>
 <h4>7.22</h4>
 In Class：<br/>
