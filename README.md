@@ -69,8 +69,18 @@ Major：資訊管理學系 二年級<br/>
 </UL>   
 <h3>week3</h3>
 <h4>7.22</h4>
-In Class：<br/>
-At Home：<br/>
+<UL>  
+<LI>In Class：<br/>
+<UL>  
+<LI>機器學習與資料科學的關係
+</UL>  
+</UL> 
+<UL>   
+<LI>At Home：<br/>
+<UL>
+<LI>
+</UL>  
+</UL>    
 <h4>7.25</h4>
 In Class：<br/>
 At Home：<br/>
