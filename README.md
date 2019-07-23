@@ -78,10 +78,14 @@ Major：資訊管理學系 二年級<br/>
 <UL>   
 <LI>At Home：<br/>
 <UL>
-<LI>
+<LI>專題製作
 </UL>  
 </UL>    
 <h4>7.25</h4>
-In Class：<br/>
-At Home：<br/>
-
+<UL>  
+<LI>In Class：<br/>
+<UL>  
+<LI>專題發表
+</UL>  
+</UL> 
+ 
