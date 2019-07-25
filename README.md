@@ -86,10 +86,9 @@ Major：資訊管理學系 二年級<br/>
 <LI>In Class：<br/>
 <UL>  
 <LI>專題發表<br/>
-<LI>[Dcard Chart](https://desk2000.github.io/Extradition-Bill/PttData/Chart4DcardData.html)<br />
-<LI>[Ptt Chart](https://desk2000.github.io/Extradition-Bill/PttData/Chart4PttData.html)<br />
-<LI>[PDF : 從論壇分析台灣人對反送中的討論度](https://desk2000.github.io/Extradition-Bill/從論壇分析台灣人對反送中的討論度.pdf)<br />
-
+<LI><a href="https://desk2000.github.io/Extradition-Bill/PttData/Chart4DcardData.html">Dcard Chart</a><br />
+<LI><a href="https://desk2000.github.io/Extradition-Bill/PttData/Chart4PttData.html">Ptt Chart</a><br />
+<LI><a href="https://desk2000.github.io/Extradition-Bill/從論壇分析台灣人對反送中的討論度.pdf">PDF : 從論壇分析台灣人對反送中的討論度</a><br />
 </UL>  
 </UL> 
  
